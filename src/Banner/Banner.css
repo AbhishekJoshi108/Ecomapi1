@@ -1,0 +1,27 @@
+.imag-2 {
+    background: url('../images/pexels-arnie-chou-965632.jpg');
+   
+    /* background: linear-gradient(rgba(0, 0, 0, 0.221)) url("../images/pexels-arnie-chou-965632.jpg"); */
+    height: 500px;
+    width: 100%;
+    /* background-position: center; */
+     background-size: cover;
+
+     
+
+}
+.bantext-1 h1{
+    width: fit-content;
+    margin-top: 7rem;
+    line-height: 4rem;
+    margin-left: 4rem;
+    font-size: 3rem;
+    color: rgba(255, 242, 0, 0.916);
+    /* margin: auto 0; */
+    
+}
+.button{
+    margin-left: 4rem;
+}
+
+

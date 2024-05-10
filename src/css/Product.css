@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.imgleft{
+    height: 300px;
+    /* width: 100%; */
+    /* padding: 5rem; */
+}
+.imgleft img{
+    height: 500px;
+    width: 100%;
+    padding: 5rem;
+}
